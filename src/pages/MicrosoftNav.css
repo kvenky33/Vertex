@@ -1,0 +1,14 @@
+.Mnav-head {
+  font: normal normal bold 66px/43px Segoe UI;
+  letter-spacing: 1.32px;
+  color: #000000;
+}
+.Thinking-head {
+  text-align: center;
+  font: normal normal bold 41px/60px Segoe UI;
+  letter-spacing: 0.82px;
+  color: #ffffff;
+}
+.transition-Container {
+  background-color: #f46718;
+}

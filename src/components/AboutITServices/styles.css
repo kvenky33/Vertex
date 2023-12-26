@@ -1,0 +1,77 @@
+.abt-itservices {
+  background-color: #343f72;
+  color: #ffffff;
+}
+.customborder-end {
+  border-right: 1px solid #888;
+}
+.bottom-line3 {
+  display: none;
+}
+.explore-btn {
+  font: normal normal 600 20px/27px Segoe UI;
+  letter-spacing: 0.4px;
+  color: #343f72;
+  opacity: 1;
+}
+.explore-btn:hover {
+  color: #343f72;
+}
+.right-column {
+  padding-left: 0;
+}
+.left-column {
+  padding-right: 0;
+}
+.service-name {
+  width: 0px;
+}
+@media screen and (max-width: 770px) {
+  .customborder-end {
+    border: none;
+  }
+  .bottom-line3 {
+    display: block;
+    margin-left: 70px;
+  }
+}
+@media screen and (max-width: 570px) {
+  .explore-btn {
+    font: normal normal 600 15px/27px Segoe UI;
+    letter-spacing: 0.2px;
+
+    padding: 0 2px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .itservices-res {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+  }
+  .servicename-res {
+    width: 50px;
+  }
+  .bottom-line1,
+  .bottom-line2,
+  .bottom-line3 {
+    width: 100px !important;
+  }
+  .explore-btn {
+    font: normal normal 600 15px/20px Segoe UI;
+    letter-spacing: 0.2px;
+
+    padding: 0 1px;
+  }
+  .p1,
+  .p2,
+  .p3,
+  .p4 {
+    font-size: small;
+    margin-left: 80px;
+  }
+}

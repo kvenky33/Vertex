@@ -1,0 +1,45 @@
+.servicesInfo-head {
+  text-align: center;
+  font: normal normal bold 46px/73px Segoe UI;
+  letter-spacing: 0.92px;
+  color: #343f72;
+}
+.servicesInfo-details {
+  text-align: center;
+  font: normal normal normal 26px/40px Segoe UI;
+  letter-spacing: 0.52px;
+  color: #000000;
+}
+.services-Image {
+  width: 42rem;
+  height: 42rem;
+}
+@media screen and (max-width: 860px) {
+  .servicesInfo-head {
+    font: normal normal bold 26px/53px Segoe UI;
+    letter-spacing: 0.72px;
+  }
+  .servicesInfo-details {
+    font: normal normal normal 16px/20px Segoe UI;
+    letter-spacing: 0.32px;
+  }
+  .services-Image {
+    width: 30rem;
+    height: 30rem;
+  }
+}
+@media screen and (max-width: 480px) {
+  .servicesInfo-head {
+    font: normal normal bold 22px/48px Segoe UI;
+    letter-spacing: 0.52px;
+    line-height: 24px;
+  }
+  .servicesInfo-details {
+    font: normal normal normal 12px/18px Segoe UI;
+    letter-spacing: 0.22px;
+  }
+  .services-Image {
+    width: 20rem;
+    height: 20rem;
+  }
+}

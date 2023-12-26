@@ -1,0 +1,17 @@
+.Power-head {
+  font: normal normal bold 66px/83px Segoe UI;
+  letter-spacing: 1.32px;
+}
+
+.PowerSub-heading {
+  font: normal normal normal 44px/68px Segoe UI;
+  letter-spacing: 0.88p;
+  text-align: center;
+}
+.header-para {
+  letter-spacing: 0.4px;
+  text-align: left;
+}
+.power-header {
+  height: 80rem;
+}

@@ -1,0 +1,95 @@
+.nav-link {
+  color: #343f72;
+  font: normal normal 600 18px/30px Segoe UI;
+}
+.dropdown-head {
+  background-color: #fff;
+  color: #343f72;
+  border: none;
+  font: normal normal 600 18px/30px Segoe UI;
+  margin-bottom: 3px;
+}
+
+.nav-contact {
+  background-color: #343f72;
+  margin-top: 80px;
+  width: 100vw;
+  height: 40px;
+}
+
+.navBrand {
+  padding-bottom: 15px;
+}
+.brand-Image {
+  margin-left: 0px;
+  height: 50px;
+}
+.link-margin {
+  margin-left: 35px;
+}
+.nav-dropdown {
+  z-index: 2;
+}
+
+@media screen and (max-width: 990px) {
+  .links {
+    padding-top: 50px;
+  }
+}
+@media screen and (max-width: 950px) {
+  .nav-contacts {
+    font-size: small;
+  }
+}
+@media screen and (max-width: 670px) {
+  .nav-contacts {
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 570px) {
+  .navbar {
+    padding: 0 15px;
+  }
+
+  .navbar-toggler {
+    width: 40px;
+    height: 35px;
+    position: relative;
+  }
+  .navbar-toggler-icon {
+    width: 30px;
+    height: 30px;
+
+    position: absolute;
+    top: 3px;
+    left: 3px;
+  }
+  .nav-contact {
+    margin-top: 60px;
+    height: 30px;
+  }
+  .links {
+    padding-top: 10px;
+  }
+  .link-margin {
+    margin: 0px 5px;
+    font-size: small;
+  }
+}
+@media screen and (max-width: 400px) {
+  .brand-Image {
+    margin-left: 10px;
+  }
+  .navbar-toggler {
+    width: 15px;
+    height: 25px;
+    position: relative;
+  }
+  .navbar-toggler-icon {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 1px;
+    left: 2px;
+  }
+}

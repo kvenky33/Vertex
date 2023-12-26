@@ -1,0 +1,15 @@
+.AppsMajorcard {
+  background: transparent
+    linear-gradient(136deg, #ffb1e1 0%, #e691c9 60%, #cc6eb0 100%) 0% 0%
+    no-repeat padding-box;
+  border-radius: 22px;
+  margin: 0 68px;
+  position: absolute;
+  right: 3px;
+  left: 3px;
+  top: 980px;
+}
+.minorcardApp {
+  background: #f6f6f6;
+  padding-top: 5rem;
+}

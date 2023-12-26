@@ -1,0 +1,19 @@
+.provideHead {
+  text-align: center;
+  font: normal normal bold 56px/72px Segoe UI;
+  letter-spacing: 1.12px;
+  color: #000000;
+}
+.provide-container {
+  background: #fde9e9;
+}
+.Provide-name {
+  text-align: center;
+  font: normal normal bold 24px/32px Segoe UI;
+  letter-spacing: 0.46px;
+  color: #ffffff;
+}
+.ProvideItemBg {
+  background: #f46718;
+  border-radius: 16px;
+}

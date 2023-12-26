@@ -1,0 +1,14 @@
+.tool-head {
+  font: normal normal bold 40px/42px Segoe UI;
+  letter-spacing: 2.5px;
+  text-align: center;
+  color: #745ce1;
+}
+.tool-para {
+  font: normal normal normal 20px/28px Segoe UI;
+
+  color: #000000;
+}
+.toolImage {
+  width: 68rem;
+}

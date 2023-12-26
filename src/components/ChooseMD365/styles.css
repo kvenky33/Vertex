@@ -1,0 +1,12 @@
+.chooseMD-Container {
+  background: transparent linear-gradient(141deg, #8d7ae3 0%, #2d68e3 100%) 0%
+    0% no-repeat padding-box;
+}
+.chooseMDhead {
+  font: normal normal bold 41px/60px Segoe UI;
+  letter-spacing: 0.82px;
+}
+.chooseMDpara {
+  font: normal normal normal 20px/28px Segoe UI;
+  letter-spacing: 0.4px;
+}

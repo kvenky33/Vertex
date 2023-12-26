@@ -1,0 +1,12 @@
+.para-head {
+  text-align: center;
+  font: normal normal bold 41px/60px Segoe UI;
+  letter-spacing: 0.82px;
+  color: #f46718;
+}
+.para {
+  text-align: left;
+  font: normal normal normal 20px/28px Segoe UI;
+  letter-spacing: 0.4px;
+  color: #000000;
+}

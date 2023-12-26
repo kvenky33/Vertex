@@ -1,0 +1,79 @@
+.form-background {
+  width: 100%;
+
+  background-size: cover;
+  background-position: center;
+
+  padding-bottom: 100px;
+}
+.form-head {
+  font: normal normal bold 42px/59px Segoe UI;
+  text-align: center;
+  letter-spacing: 0.84px;
+  color: #3a3a3a;
+  opacity: 1;
+}
+.input-field {
+  background: #efefef 0% 0% no-repeat padding-box;
+  border: 1px solid #afafaf;
+  opacity: 1;
+  padding: 12px 20px;
+  font: normal normal normal 24px/32px Segoe UI;
+  letter-spacing: 0.64px;
+
+  opacity: 1;
+}
+.input-textarea {
+  background: #efefef 0% 0% no-repeat padding-box;
+  font: normal normal normal 24px/32px Segoe UI;
+  border: 1px solid #afafaf;
+  opacity: 1;
+  height: 150px;
+  padding: 12px 20px;
+}
+.input-field::placeholder {
+  color: #b5b5b5;
+}
+.input-textarea::placeholder {
+  color: #b5b5b5;
+}
+.form-btn {
+  background: #09abeb 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  opacity: 1;
+  width: 160px;
+  height: 60px;
+}
+
+@media screen and (max-width: 670px) {
+  .form-head {
+    font: normal normal bold 32px/48px Segoe UI;
+
+    letter-spacing: 0.54px;
+  }
+  .input-field,
+  .input-textarea {
+    font: normal normal normal 16px/24px Segoe UI;
+  }
+}
+@media screen and (max-width: 500px) {
+  .form-head {
+    font: normal normal bold 16px/28px Segoe UI;
+
+    letter-spacing: 0.24px;
+  }
+  .input-field,
+  .input-textarea {
+    font: normal normal normal 12px/18px Segoe UI;
+    height: 2rem;
+  }
+  .input-textarea {
+    height: 8rem;
+  }
+  .form-btn {
+    border-radius: 8px;
+    opacity: 1;
+    width: 80px;
+    height: 40px;
+  }
+}

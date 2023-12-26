@@ -1,0 +1,39 @@
+.aboutPartner-heading {
+  height: 67px;
+
+  font: normal normal normal 50px/78px Segoe UI;
+  letter-spacing: 1px;
+  color: #ffffff;
+  opacity: 1;
+}
+.clr-strip {
+  height: 6px;
+
+  margin-right: 0.5px;
+}
+.borderEnd {
+  border-right: 1px solid #fdfdfd;
+}
+.Partners-hrline {
+  display: none;
+}
+
+@media screen and (max-width: 750px) {
+  .Partners-hrline {
+    margin-top: 50px;
+    display: block;
+  }
+  .borderEnd {
+    border-right: none;
+  }
+}
+@media screen and (max-width: 400px) {
+  .partners-res {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    padding: 60px 0 0 20px;
+  }
+}

@@ -1,0 +1,11 @@
+.partners-microsoftHead {
+  font: normal normal bold 30px/62px Segoe UI;
+  letter-spacing: 0.8px;
+  color: #ffffff;
+}
+@media screen and (max-width: 760px) {
+  .partners-microsoftHead {
+    font: normal normal bold 20px/32px Segoe UI;
+    letter-spacing: 0.5px;
+  }
+}

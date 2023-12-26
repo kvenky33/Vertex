@@ -1,0 +1,30 @@
+.M365heading {
+  font: normal normal bold 66px/83px Segoe UI;
+  letter-spacing: 1.32px;
+  text-align: center;
+  color: #000000;
+  opacity: 1;
+}
+.m365logo {
+  width: 8rem;
+  height: 8rem;
+}
+.M365-subheading {
+  text-align: center;
+  font: normal normal normal 44px/67px Segoe UI;
+  letter-spacing: 0.88px;
+  color: #000000;
+  opacity: 1;
+}
+.M365-headpara {
+  text-align: center;
+  font: normal normal normal 26px/40px Segoe UI;
+  letter-spacing: 0.52px;
+  color: #000000;
+}
+.M365-para {
+  text-align: left;
+  font: normal normal normal 20px/28px Segoe UI;
+  letter-spacing: 0.4px;
+  color: #000000;
+}

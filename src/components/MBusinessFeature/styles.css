@@ -1,0 +1,9 @@
+.feature-head {
+  font: normal normal bold 26px/28px Segoe UI;
+  letter-spacing: 0.52px;
+}
+
+.feature-para {
+  font: normal normal normal 20px/28px Segoe UI;
+  letter-spacing: 0.4px;
+}

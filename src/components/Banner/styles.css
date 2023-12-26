@@ -1,0 +1,15 @@
+.clr-strip {
+  margin-right: 0.5px;
+  height: 6px;
+}
+
+@media screen and (max-width: 570px) {
+  .header-img {
+    padding-top: 25px;
+  }
+}
+@media screen and (max-width: 400px) {
+  .header-img {
+    padding-top: 20px;
+  }
+}

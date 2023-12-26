@@ -1,0 +1,66 @@
+.abt-sol {
+  background-color: #f6f6f6;
+}
+.textcolor {
+  color: #343f72;
+}
+.abt-sol-head {
+  text-align: left;
+  font: normal normal 600 40px/53px Segoe UI;
+  letter-spacing: 0.8px;
+  opacity: 1;
+}
+.hrline-blue {
+  height: 9px;
+  background: #343f72;
+  border-radius: 20px;
+  opacity: 1;
+}
+.color-line {
+  height: 9px;
+}
+.abt-help {
+  height: 91px;
+
+  font: normal normal 600 28px/44px Segoe UI;
+  letter-spacing: 0.56px;
+  opacity: 1;
+}
+
+.card {
+  border: none;
+  background-color: #f6f6f6;
+}
+.dynamic-nav {
+  color: #f6f6f6;
+  border-radius: 0px 0px 20px 20px;
+}
+.card-heading {
+  font: normal normal 600 31px/38px Segoe UI;
+  letter-spacing: 0.62px;
+  color: #000000;
+}
+.card-info {
+  font: normal normal normal 20px/28px Segoe UI;
+  letter-spacing: 0.4px;
+  color: #000000;
+  opacity: 1;
+}
+.small-btn {
+  background-color: #343f72;
+  height: 50px;
+  width: 150px;
+}
+.dynamicsNav-btn {
+  height: 50px;
+  width: 150px;
+}
+.arrow-up {
+  width: 9px;
+  height: 9px;
+}
+@media screen and (max-width: 400px) {
+  .abt-help {
+    height: 120px;
+  }
+}

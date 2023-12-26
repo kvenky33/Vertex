@@ -1,0 +1,18 @@
+.features-heading {
+  text-align: center;
+  font: normal normal bold 41px/60px Segoe UI;
+  letter-spacing: 0.82px;
+}
+.BusinessCentral {
+  background: #2a969d;
+}
+.functionality-head {
+  color: #2a9ea7;
+}
+.clr-yellow {
+  color: #fdc51a;
+}
+.Integration-subhead {
+  font: normal normal 600 30px/50px Segoe UI;
+  letter-spacing: 0.6px;
+}

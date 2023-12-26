@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1256" viewBox="0 0 1920 1256">
+  <g id="contact-us-bg-image" transform="translate(0 -758)">
+    <path id="Bg_-_Blue" data-name="Bg - Blue" d="M0,0H1920V354H0Z" transform="translate(0 1660)" fill="#343f72"/>
+    <rect id="Bg_-_White" data-name="Bg - White" width="1920" height="902" transform="translate(0 758)" fill="#fff"/>
+    <g id="Messages_Symbols" data-name="Messages Symbols">
+      <g id="Filled">
+        <path id="message-contact-icon" d="M4.5,44.5a6.667,6.667,0,0,0,6.667,6.667h40L64.5,64.5V11.167A6.667,6.667,0,0,0,57.833,4.5H11.167A6.667,6.667,0,0,0,4.5,11.167Z" transform="translate(57.5 1477.5)" fill="#343f72" opacity="0.22"/>
+        <path id="message-contact-icon-2" data-name="message-contact-icon" d="M4.5,53.833a8.222,8.222,0,0,0,8.222,8.222H62.056L78.5,78.5V12.722A8.222,8.222,0,0,0,70.278,4.5H12.722A8.222,8.222,0,0,0,4.5,12.722Z" transform="translate(1400.969 1451.5)" fill="#343f72" opacity="0.1"/>
+        <path id="message-contact-icon-3" data-name="message-contact-icon" d="M156.5,105.833a16.889,16.889,0,0,1-16.889,16.889H38.278L4.5,156.5V21.389A16.889,16.889,0,0,1,21.389,4.5H139.611A16.889,16.889,0,0,1,156.5,21.389Z" transform="translate(117.5 1623.688)" fill="#fff"/>
+        <path id="message-contact-icon-4" data-name="message-contact-icon" d="M4.5,94.723A15.037,15.037,0,0,0,19.537,109.76H109.76l30.074,30.074V19.537A15.037,15.037,0,0,0,124.8,4.5H19.537A15.037,15.037,0,0,0,4.5,19.537Z" transform="translate(1568.5 1623.688)" fill="#fff"/>
+        <path id="message-contact-icon-5" data-name="message-contact-icon" d="M4.5,52.01a7.918,7.918,0,0,0,7.918,7.918h47.51L75.766,75.766V12.418A7.918,7.918,0,0,0,67.847,4.5H12.418A7.918,7.918,0,0,0,4.5,12.418Z" transform="translate(416.234 1641.75)" fill="#fff"/>
+      </g>
+      <g id="Outlined">
+        <path id="message-contact-icon-6" data-name="message-contact-icon" d="M140.969,95.479a15.163,15.163,0,0,1-15.163,15.163H34.826L4.5,140.969V19.663A15.163,15.163,0,0,1,19.663,4.5H125.806a15.163,15.163,0,0,1,15.163,15.163Z" transform="translate(191.031 1309.5)" fill="none" stroke="#343f72" stroke-linecap="round" stroke-width="8" opacity="0.64"/>
+        <path id="message-contact-icon-7" data-name="message-contact-icon" d="M4.5,35.816a5.219,5.219,0,0,0,5.219,5.219H41.036L51.475,51.475V9.719A5.219,5.219,0,0,0,46.255,4.5H9.719A5.219,5.219,0,0,0,4.5,9.719Z" transform="translate(1442.166 1798.668)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5" opacity="0.58"/>
+        <path id="message-contact-icon-8" data-name="message-contact-icon" d="M4.5,48.188a7.281,7.281,0,0,0,7.281,7.281H55.469L70.031,70.031V11.781A7.281,7.281,0,0,0,62.75,4.5H11.781A7.281,7.281,0,0,0,4.5,11.781Z" transform="translate(1575.969 1291.5)" fill="none" stroke="#343f72" stroke-linecap="round" stroke-width="8" opacity="0.49"/>
+        <path id="message-contact-icon-9" data-name="message-contact-icon" d="M4.5,28.833a4.056,4.056,0,0,0,4.056,4.056H32.889L41,41V8.556A4.056,4.056,0,0,0,36.944,4.5H8.556A4.056,4.056,0,0,0,4.5,8.556Z" transform="translate(469 1486.984)" fill="none" stroke="#343f72" stroke-linecap="round" stroke-width="6" opacity="0.28"/>
+        <path id="message-contact-icon-10" data-name="message-contact-icon" d="M93.016,63.51a9.835,9.835,0,0,1-9.835,9.835H24.17L4.5,93.016V14.335A9.835,9.835,0,0,1,14.335,4.5H83.181a9.835,9.835,0,0,1,9.835,9.835Z" transform="translate(1769 1486.984)" fill="none" stroke="#343f72" stroke-linecap="round" stroke-width="5" opacity="0.27"/>
+        <path id="message-contact-icon-11" data-name="message-contact-icon" d="M53.5,37.167a5.444,5.444,0,0,1-5.444,5.444H15.389L4.5,53.5V9.944A5.444,5.444,0,0,1,9.944,4.5H48.056A5.444,5.444,0,0,1,53.5,9.944Z" transform="translate(351.5 1764.453)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5" opacity="0.48"/>
+      </g>
+    </g>
+  </g>
+</svg>

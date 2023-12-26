@@ -1,0 +1,30 @@
+.location-icon {
+  width: 40px;
+  height: 40px;
+}
+.cursor {
+  cursor: pointer;
+}
+.borderline {
+  border-right: 1px solid #888;
+}
+.sales-hrline {
+  display: none;
+}
+@media screen and (max-width: 750px) {
+  .borderline {
+    border: none;
+  }
+  .sales-hrline {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 440px) {
+  .footerbgtm-res {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}

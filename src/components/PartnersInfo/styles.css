@@ -1,0 +1,20 @@
+.partners-para {
+  margin-top: 10px;
+  font: normal normal normal 26px/40px Segoe UI;
+  letter-spacing: 0.52px;
+  color: #000000;
+  opacity: 1;
+}
+.Partner-MicroImg {
+  width: 20rem;
+}
+
+@media screen and (max-width: 580px) {
+  .partners-para {
+    margin-top: 10px;
+    font: normal normal normal 20px/30px Segoe UI;
+    letter-spacing: 0.32px;
+    color: #000000;
+    opacity: 1;
+  }
+}
