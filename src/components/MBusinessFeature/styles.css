@@ -7,3 +7,33 @@
   font: normal normal normal 20px/28px Segoe UI;
   letter-spacing: 0.4px;
 }
+
+@media screen and (max-width: 570px) {
+  .feature-icon {
+    width: 2rem;
+    height: 2rem;
+  }
+  .feature-head {
+    font: normal normal 20px/24px Segoe UI;
+    letter-spacing: 0.4px;
+  }
+  .feature-para {
+    font: normal normal normal 16px/24px Segoe UI;
+    letter-spacing: 0.2px;
+  }
+}
+@media screen and (max-width: 440px) {
+  .feature-icon {
+    width: 1rem;
+    height: 1rem;
+    margin-top: 8px;
+  }
+  .feature-head {
+    font: normal normal 18px/24px Segoe UI;
+    letter-spacing: 0.2px;
+  }
+  .feature-para {
+    font: normal normal normal 14px/24px Segoe UI;
+    letter-spacing: 0.2px;
+  }
+}

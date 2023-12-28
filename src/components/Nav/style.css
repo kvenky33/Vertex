@@ -13,8 +13,19 @@
 .nav-contact {
   background-color: #343f72;
   margin-top: 80px;
-  width: 100vw;
+  color: #fff;
   height: 40px;
+}
+.navcontact-number::after {
+  content: "|";
+  margin: 0px 5px;
+}
+.nav-contact .navcontact-number {
+  padding-top: 8px;
+}
+
+.nav-contact .navcontact-mail {
+  padding-top: 8px;
 }
 
 .navBrand {
@@ -30,7 +41,9 @@
 .nav-dropdown {
   z-index: 2;
 }
-
+.noshow {
+  display: none;
+}
 @media screen and (max-width: 990px) {
   .links {
     padding-top: 50px;
@@ -46,11 +59,28 @@
     font-size: 10px;
   }
 }
+/* ************************************************ */
+@media screen and (max-width: 575px) {
+  .nav-contact .navContactIcon {
+    width: 20px;
+    height: 20px;
+    margin-top: 8px;
+  }
+  .nav-contact .navcontact-number {
+    font-size: 15px;
+  }
+  .nav-contact .navcontact-mail {
+    font-size: 15px;
+  }
+}
 @media screen and (max-width: 570px) {
   .navbar {
     padding: 0 15px;
   }
-
+  .dropdown-head {
+    color: #343f72;
+    font: normal normal 500 12px/22px Segoe UI;
+  }
   .navbar-toggler {
     width: 40px;
     height: 35px;
@@ -64,10 +94,10 @@
     top: 3px;
     left: 3px;
   }
-  .nav-contact {
+  /* .nav-contact {
     margin-top: 60px;
     height: 30px;
-  }
+  } */
   .links {
     padding-top: 10px;
   }

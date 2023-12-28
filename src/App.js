@@ -2,7 +2,7 @@ import React from "react";
 import { Route, Routes } from "react-router-dom";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
-import About from "./pages/About";
+import Home from "./pages/Home";
 import Services from "./pages/Services";
 
 import Partners from "./pages/Partners";
@@ -12,13 +12,15 @@ import Microsoft365Business from "./pages/Microsoft365Business";
 import MicrosoftNav from "./pages/MicrosoftNav";
 import PowerApps from "./pages/PowerApps";
 import PowerBi from "./pages/PowerBi";
+import About from "./pages/About";
 
 const App = () => {
   return (
     <>
       <Nav />
       <Routes>
-        <Route path="/" element={<About />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
         <Route path="/services" element={<Services />} />
 
         <Route

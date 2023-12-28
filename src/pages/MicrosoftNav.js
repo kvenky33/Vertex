@@ -17,7 +17,8 @@ const MicrosoftNav = () => {
       <div className="py-5">
         <div className="d-flex flex-column justify-content-center align-items-center gap-4 p-5">
           <Image src={microsoftNavLogo} alt="microsoftnavlogo" />
-          <p className="Mnav-head ">Microsoft </p>
+
+          <p className="Mnav-head ">Microsoft</p>
           <p className="Mnav-head ">Dynamics NAV</p>
         </div>
 
@@ -51,8 +52,9 @@ const MicrosoftNav = () => {
 
       <div className="text-white transition-Container py-5">
         <Container>
-          <p className="Thinking-head">Thinking of transitioning to</p>
-          <p className="Thinking-head">Dynamics 365 Business Central?</p>
+          <p className="Thinking-head">
+            Thinking of transitioning to <br /> Dynamics 365 Business Central?
+          </p>
 
           <p>
             As you probably know, Microsoft has rebranded, enhanced and

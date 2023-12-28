@@ -11,4 +11,25 @@
 }
 .toolImage {
   width: 68rem;
+  height: auto;
+}
+@media screen and (max-width: 990px) {
+  .tool-head {
+    font: normal normal bold 36px/40px Segoe UI;
+    letter-spacing: 2.2px;
+  }
+}
+@media screen and (max-width: 760px) {
+  .tool-head {
+    font: normal normal bold 30px/38px Segoe UI;
+    letter-spacing: 1.8px;
+  }
+  .tool-para {
+    font: normal normal normal 16px/24px Segoe UI;
+  }
+}
+@media screen and (max-width: 520px) {
+  .tool-head {
+    font: normal normal bold 25px/30px Segoe UI;
+  }
 }

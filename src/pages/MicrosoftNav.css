@@ -12,3 +12,10 @@
 .transition-Container {
   background-color: #f46718;
 }
+
+@media screen and (max-width: 770px) {
+  .Thinking-head {
+    font: normal normal bold 30px/50px Segoe UI;
+    letter-spacing: 0.6px;
+  }
+}

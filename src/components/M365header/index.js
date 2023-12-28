@@ -10,8 +10,8 @@ const M365header = (props) => {
       <p className="M365-subheading">{props.subheading}</p>
       <p className="M365-headpara">{props.headpara}</p>
       <Image src={props.image} alt="m365image" className="pb-3" />
-      <p className="M365para">{props.para1}</p>
-      <p className="M365para">{props.para2}</p>
+      <p className="M365-para">{props.para1}</p>
+      <p className="M365-para">{props.para2}</p>
     </Container>
   );
 };

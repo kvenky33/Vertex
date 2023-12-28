@@ -3,7 +3,6 @@
   letter-spacing: 1.32px;
   text-align: center;
   color: #000000;
-  opacity: 1;
 }
 .m365logo {
   width: 8rem;
@@ -14,7 +13,6 @@
   font: normal normal normal 44px/67px Segoe UI;
   letter-spacing: 0.88px;
   color: #000000;
-  opacity: 1;
 }
 .M365-headpara {
   text-align: center;
@@ -27,4 +25,39 @@
   font: normal normal normal 20px/28px Segoe UI;
   letter-spacing: 0.4px;
   color: #000000;
+}
+
+@media screen and (max-width: 990px) {
+  .M365heading {
+    font: normal normal bold 58px/76px Segoe UI;
+    letter-spacing: 1px;
+  }
+}
+@media screen and (max-width: 770px) {
+  .M365heading {
+    font: normal normal bold 40px/50px Segoe UI;
+    letter-spacing: 0.5px;
+  }
+  .M365-subheading {
+    font: normal normal normal 30px/48px Segoe UI;
+    letter-spacing: 0.3px;
+  }
+  .M365-headpara {
+    font: normal normal normal 18px/30px Segoe UI;
+    letter-spacing: 0.25px;
+  }
+  .M365-para {
+    font: normal normal normal 16px/24px Segoe UI;
+  }
+}
+
+@media screen and (max-width: 490px) {
+  .M365heading {
+    font: normal normal bold 28px/40px Segoe UI;
+    letter-spacing: 0.3px;
+  }
+  .M365-subheading {
+    font: normal normal normal 22px/30px Segoe UI;
+    letter-spacing: 0.1px;
+  }
 }

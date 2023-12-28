@@ -1,0 +1,157 @@
+.aboutUs,
+.technology {
+  padding: 20px 0px;
+}
+.aboutUs .heading {
+  font-family: var(--font-family);
+  font-weight: bold;
+  font-size: 56px;
+  line-height: 80px;
+
+  color: #343f72;
+}
+.aboutUs .para {
+  font-family: var(--font-family);
+  font-size: 20px;
+  line-height: 28px;
+  text-align: left;
+  letter-spacing: 0.4px;
+  color: #363636;
+}
+
+/* **************************** Out mission ******************************* */
+.mission {
+  background: #343f72;
+
+  border-radius: 22px;
+  padding: 50px;
+}
+.mission .heading {
+  font-family: var(--font-family);
+  font-weight: bold;
+
+  font-size: 56px;
+  line-height: 80px;
+  color: #ffffff;
+}
+.mission .quote-mark {
+  width: 100px;
+  height: 80px;
+}
+.mission .clr-strip {
+  width: 317px;
+  height: 9px;
+}
+.mission .para {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.48px;
+  color: #ffffff;
+  padding-top: 30px;
+}
+
+/* *****************************************Technology *************************************** */
+.technology .heading {
+  font-family: var(--font-family);
+  font-weight: bold;
+  font-size: 56px;
+  line-height: 70px;
+
+  color: #343f72;
+}
+.technology .para {
+  font-family: var(--font-family);
+  font-size: 20px;
+  line-height: 28px;
+  text-align: left;
+  letter-spacing: 0.4px;
+  color: #000000;
+}
+
+/* *************************************Industries****************************************** */
+.industries-Container {
+  background-color: #09abeb14;
+  padding: 40px 0px;
+}
+.industries .heading {
+  text-align: left;
+  font-family: var(--font-family);
+  font-weight: bold;
+  font-size: 56px;
+  line-height: 98px;
+  letter-spacing: 1.12px;
+  color: #000000;
+}
+.industries .industry {
+  background: #09abeb;
+  border-radius: 16px;
+}
+.industries .industries-content {
+  padding: 30px 0px;
+}
+.industries .industry {
+  width: 256px;
+  height: 282px;
+  margin: 5px;
+}
+.industries .industry .industry-name {
+  font-family: var(--font-family);
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 52px;
+  text-align: center;
+  letter-spacing: 0.6px;
+  color: #ffffff;
+}
+/* *********************************Our valuse*********************************************** */
+.ourvalues {
+  background: #363636;
+}
+.ourvalues-container,
+.values {
+  padding: 20px 0px;
+}
+.ourvalues .values-head {
+  font-family: var(--font-family);
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 115px;
+  letter-spacing: 0.9px;
+  color: #ffffff;
+  padding-left: 18px;
+  margin-bottom: 0;
+}
+.ourvalues .clr-strip {
+  width: 296px;
+  height: 9px;
+}
+.ourvalues .values .value-Item {
+  background: #7a611441;
+  border-radius: 12px;
+  width: 330px;
+
+  margin: 3px;
+}
+.ourvalues .values .value-name {
+  font-family: var(--font-family);
+  font-weight: bold;
+  font-size: 29px;
+  line-height: 86px;
+  letter-spacing: 0.58px;
+  color: #ffffff;
+}
+.ourvalues .values .value-subname {
+  font-family: var(--font-family);
+  font-size: 17px;
+  line-height: 43px;
+  letter-spacing: 0.34px;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 575px) {
+  .mission .clr-strip {
+    width: 260px;
+  }
+}

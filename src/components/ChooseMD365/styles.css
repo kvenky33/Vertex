@@ -10,3 +10,34 @@
   font: normal normal normal 20px/28px Segoe UI;
   letter-spacing: 0.4px;
 }
+
+@media screen and (max-width: 990px) {
+  .chooseMDhead {
+    font: normal normal bold 30px/40px Segoe UI;
+    letter-spacing: 2px;
+  }
+}
+@media screen and (max-width: 770px) {
+  .chooseMDhead {
+    font: normal normal bold 26px/34px Segoe UI;
+    letter-spacing: 1.4px;
+  }
+  .chooseMDpara {
+    font: normal normal normal 16px/24px Segoe UI;
+  }
+}
+@media screen and (max-width: 540px) {
+  .chooseMDhead {
+    font: normal normal bold 22px/30px Segoe UI;
+  }
+  .chooseMDpara {
+    font: normal normal normal 14px/22px Segoe UI;
+  }
+}
+
+@media screen and (max-width: 470px) {
+  .chooseMDhead {
+    font: normal normal bold 18px/28px Segoe UI;
+    letter-spacing: 0.2px;
+  }
+}

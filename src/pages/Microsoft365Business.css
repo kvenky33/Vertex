@@ -16,3 +16,31 @@
   font: normal normal 600 30px/50px Segoe UI;
   letter-spacing: 0.6px;
 }
+
+@media screen and (max-width: 760px) {
+  .features-heading {
+    font: normal normal bold 30px/46px Segoe UI;
+    letter-spacing: 0.62px;
+  }
+  .Integration-subhead {
+    font: normal normal 500 20px/36px Segoe UI;
+    letter-spacing: 0.6px;
+  }
+}
+
+/* @media screen and (max-width: 760px) {
+  .features-heading {
+    font: normal normal bold 24px/36px Segoe UI;
+    letter-spacing: 0.3px;
+  }
+} */
+@media screen and (max-width: 480px) {
+  .features-heading {
+    font: normal normal bold 20px/36px Segoe UI;
+    letter-spacing: 0.2px;
+  }
+  .Integration-subhead {
+    font: normal normal 370 18px/26px Segoe UI;
+    letter-spacing: 0.1px;
+  }
+}

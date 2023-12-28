@@ -16,7 +16,7 @@ const Toolscontainer = () => {
         efficient through a centralized management system comprising: Field
         Service automation and Project Management.
       </p>
-      <Image src={toolsImage} alt="toolsImage" className="toolImage" />
+      <Image src={toolsImage} alt="toolsImage" className="toolImage" fluid />
     </Container>
   );
 };
